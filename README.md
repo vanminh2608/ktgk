@@ -15,4 +15,4 @@ Cài Đặt Composer: Chạy tập tin tải về để cài đặt Composer tr�
 2. Tạo dự án Lavarel với composer
 - Sau khi cài đặt Composer, bạn có thể tạo một dự án Laravel mới bằng cách sử dụng lệnh sau trong terminal : composer create-project --prefer-dist laravel/laravel my_project (my_project là tên file mình tạo dự án)
 - Khởi Động Server Laravel: Sử dụng Artisan CLI để khởi động server tích hợp của Laravel: php artisan serve 
-- Mở trình duyệt và truy cập địa chỉ http://localhost:8000 để xem trang chủ của dự án Laravel.
+- Mở trình duyệt và truy cập địa chỉ http://127.0.0.1:8000/helloWorld để xem trang chủ của dự án Laravel.
